@@ -1,2 +1,5 @@
 # Rock_Paper_Scissors
-Rock-paper-scissors game with a system
+featuer:
+- Getting input from the user
+- Getting input from the system
+- Display user and system win rate
